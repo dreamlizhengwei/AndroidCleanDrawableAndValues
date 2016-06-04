@@ -1,4 +1,8 @@
 # AndroidCleanDrawableAndValues
+
+清除Android中无用的drawable和values资源。
+Clean useless drawable and values in android projects.
+
 - 纯java，直接在java工程里运行即可。
 
 可以参考博客解析：http://blog.csdn.net/lizhengwei1989/article/details/50087225
